@@ -83,7 +83,7 @@ The project is setup to use Docker to create a local CouchDB instance. This work
 but has not been tried on Windows. If you would like to contribute and have problems with this step,
 please raise an issue.
 
-There are two projects - one server and one client. The server is a node.js server using [Hapi](http://hapijs.org),
+There are two projects - one server and one client. The server is a node.js server using [Hapi](https://hapijs.com/),
 and a client project using [React](http://reactjs.org) and [Redux](http://redux.js.org).
 
 The project uses [yarn](http://yarnpkg.com) for package management. Find out from the website how
